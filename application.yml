@@ -1,5 +1,5 @@
 application:
-  name: ECommerce-shopping-application
+  name: Walmart-shopping-application
 eureka:
   client:
     register-with-eureka: true
